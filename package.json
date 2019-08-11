@@ -1,0 +1,22 @@
+{
+  "name": "ngrx-entity-store",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/core": "^8.2.1",
+    "@ngrx/effects": "^8.2.0",
+    "@ngrx/entity": "^8.2.0",
+    "@ngrx/store": "^8.2.0",
+    "normalizr": "^3.4.1",
+    "rxjs": "^6.5.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  }
+}
